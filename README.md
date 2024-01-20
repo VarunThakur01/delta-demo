@@ -1,2 +1,2 @@
 # delta-demo
-learning Git &amp; GIthub class
+learning Git &amp; GIthub class.
